@@ -1,7 +1,7 @@
 ### Profile
 **Education:** Computer Software major <br />
 **Location:** South Korea <br />
-**Job:** Front End Developer
+**Job:** Front End Developer (November 28th, 2022 ~ )
 
 ### Portfolios
 | name | link | status|
