@@ -1,6 +1,6 @@
 ### Profile
 **Education:** Computer Software major <br />
-**Location:** South Korea
+**Location:** South Korea <br />
 **Job:** Front End Developer
 
 ### Portfolios
